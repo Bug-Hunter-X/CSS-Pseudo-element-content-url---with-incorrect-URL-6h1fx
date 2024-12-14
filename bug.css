@@ -1,0 +1,1 @@
+The following CSS code snippet demonstrates an issue where a pseudo-element selector (:before or :after) is used with content:url(), but the URL is incorrect or points to a non-existent resource. This would result in the pseudo-element not displaying as expected, or throwing a console error that may go unnoticed because it only affects the display.
